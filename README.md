@@ -1,6 +1,10 @@
-# Generative_AI
+## Generative_AI
 
-This is a course I worked on in Coursera. Link: https://www.coursera.org/professional-certificates/generative-ai-for-software-development. The certificate of completion is on my LinkedIn profile.
+# Intro:
+
+This is a course I worked on in Coursera. Link: https://www.coursera.org/professional-certificates/generative-ai-for-software-development. I had to do 3 coding assignments, which showcase what I learned. I have added the assignments to this GitHub repository. The certificate of completion is on my LinkedIn profile.
+
+# Course Description:
 
 In Generative AI with Large Language Models (LLMs), you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications.
 
