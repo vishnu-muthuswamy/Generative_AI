@@ -1,5 +1,7 @@
 # Generative_AI
 
+This is a course I worked on in Coursera. Link: https://www.coursera.org/professional-certificates/generative-ai-for-software-development
+
 In Generative AI with Large Language Models (LLMs), you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications.
 
 By taking this course, you'll learn to:
